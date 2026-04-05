@@ -1,5 +1,65 @@
-# 💫 About Me:
-# 👋 Hi, I'm Prabhav Pramod Kadam<br><br>🎓 I am an **IT Diploma student** and future **B.Tech aspiring Cyber Security professional** who loves technology, problem-solving, and secure software development.<br><br>💻 I enjoy building real-world applications like **WorkLink**, a worker hiring platform developed using **ASP.NET Core MVC**, while also learning how to make applications **secure, reliable, and scalable**.<br><br>🔐 My main interest is in **Cyber Security, Ethical Hacking, Network Security, and Secure Web Development**.<br><br>🚀 Skills:<br><br>* **ASP.NET Core MVC**<br>* **C#**<br>* **HTML, CSS, JavaScript**<br>* **SQL Server**<br>* **Java**<br>* **Android Studio**<br>* **Bootstrap**<br>* **Basic Networking**<br>* **Web Security Concepts**<br><br>🌱 Currently learning:<br><br>* **Cyber Security Fundamentals**<br>* **Ethical Hacking**<br>* **OWASP Top 10**<br>* **Network Security**<br>* **Linux**<br>* **Penetration Testing Basics**<br><br>🎯 Career Goal:<br>To become a **Cyber Security Engineer / Ethical Hacker** and help organizations protect their systems, applications, and data from cyber threats.<br><br>✨ I am passionate about combining **software development with security practices** to build safe and powerful digital solutions.<br>
+# 💫 About Me
+
+```bash
+> Initializing Developer Profile...
+> Loading Cyber Security Mode ███████████ 100%
+> Access Granted ✅
+```
+
+# 👨‍💻 Hey, I'm **Prabhav Pramod Kadam**
+
+🎓 **IT Diploma Student** | 🚀 Future **B.Tech Cyber Security Engineer**
+🔐 Passionate about **Cyber Security, Ethical Hacking, and Secure Software Development**
+
+---
+
+## ⚡ Who Am I?
+
+I am a tech enthusiast who loves building **real-world applications** and securing them against modern threats.
+
+Currently developing **WorkLink** — a worker hiring platform built with **ASP.NET Core MVC** that connects users with professionals like plumbers, electricians, maids, and service experts.
+
+My mission is to combine **software engineering + cyber security** to create systems that are **powerful, scalable, and secure by design**.
+
+---
+
+## 🚀 Tech Arsenal
+
+* ⚔️ **ASP.NET Core MVC**
+* 💻 **C#**
+* 🌐 **HTML, CSS, JavaScript**
+* 🗄️ **SQL Server**
+* ☕ **Java**
+* 📱 **Android Studio**
+* 🎨 **Bootstrap**
+* 🌍 **Networking Basics**
+* 🛡️ **Web Security Concepts**
+
+---
+
+## 🌱 Currently Leveling Up
+
+* 🔐 **Cyber Security Fundamentals**
+* 🕵️ **Ethical Hacking**
+* 🚨 **OWASP Top 10**
+* 🌐 **Network Security**
+* 🐧 **Linux**
+* 🎯 **Penetration Testing**
+
+---
+
+## 🎯 Mission
+
+To become a **Cyber Security Engineer / Ethical Hacker** focused on protecting systems, applications, and sensitive data from evolving cyber threats.
+
+---
+
+## ⚡ Developer Mindset
+
+> *"Code it. Break it. Secure it. Scale it."*
+
+✨ I am deeply passionate about building **secure digital solutions** that solve real-world problems while defending against cyber attacks.
+
 
 
 ## 🌐 Socials:
@@ -24,7 +84,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pkadam1052007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+
 
 <!--
 **pkadam1052007/pkadam1052007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
