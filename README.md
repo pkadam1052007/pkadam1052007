@@ -1,4 +1,4 @@
-# ⚡ Prabhav Pramod Kadam — Cyber Security Engineer
+# ⚡ Prabhav Pramod Kadam 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F72D&center=true&vCenter=true&width=1000&lines=Cyber+Security+Engineer+In+Progress;Ethical+Hacker;Secure+Software+Developer;ASP.NET+Core+Developer;Building+WorkLink;Future+B.Tech+Cyber+Security+Engineer" />
 
@@ -19,7 +19,7 @@
 # 👨‍💻 About Me
 
 🎓 Diploma in Information Technology  
-🚀 Future **B.Tech Cyber Security Engineer**  
+🚀 Future **B.Tech Information Technology**  
 🔐 Passionate about **Cyber Security & Ethical Hacking**
 
 I love building **secure real-world applications** and protecting them against **modern cyber threats**.
@@ -171,6 +171,8 @@ Secure The Digital World
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/@PrabhavKadam)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:prabhavkadam07@gmail.com)
+
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@prabhavkadam)
 
 ---
 
