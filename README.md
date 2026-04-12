@@ -1,102 +1,207 @@
-# 💫 About Me
+# ⚡ Prabhav Pramod Kadam — Cyber Security Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F72D&center=true&vCenter=true&width=1000&lines=Cyber+Security+Engineer+In+Progress;Ethical+Hacker;Secure+Software+Developer;ASP.NET+Core+Developer;Building+WorkLink;Future+B.Tech+Cyber+Security+Engineer" />
+
+---
+
+# 🧑‍💻 Developer Initialization
 
 ```bash
-> Initializing Developer Profile...
-> Loading Cyber Security Mode ███████████ 100%
-> Access Granted ✅
+> Booting Developer Profile...
+> Loading Cyber Security Modules...
+> Initializing Secure Environment...
+> Status: ONLINE 🟢
+> Welcome to Prabhav's GitHub
 ```
 
-# 👨‍💻 Hey, I'm **Prabhav Pramod Kadam**
+---
 
-🎓 **IT Diploma Student** | 🚀 Future **B.Tech Cyber Security Engineer**
-🔐 Passionate about **Cyber Security, Ethical Hacking, and Secure Software Development**
+# 👨‍💻 About Me
+
+🎓 Diploma in Information Technology  
+🚀 Future **B.Tech Cyber Security Engineer**  
+🔐 Passionate about **Cyber Security & Ethical Hacking**
+
+I love building **secure real-world applications** and protecting them against **modern cyber threats**.
+
+Currently Building:
+
+💼 **WorkLink** — Worker Hiring Platform  
+🔐 Built with **ASP.NET Core MVC**  
+⚡ Focused on **Security + Performance + Scalability**
 
 ---
 
-## ⚡ Who Am I?
+# 🧠 Developer Mindset
 
-I am a tech enthusiast who loves building **real-world applications** and securing them against modern threats.
+```csharp
+while(true)
+{
+    Build();
+    Break();
+    Secure();
+    Scale();
+}
+```
 
-Currently developing **WorkLink** — a worker hiring platform built with **ASP.NET Core MVC** that connects users with professionals like plumbers, electricians, maids, and service experts.
-
-My mission is to combine **software engineering + cyber security** to create systems that are **powerful, scalable, and secure by design**.
-
----
-
-## 🚀 Tech Arsenal
-
-* ⚔️ **ASP.NET Core MVC**
-* 💻 **C#**
-* 🌐 **HTML, CSS, JavaScript**
-* 🗄️ **SQL Server**
-* ☕ **Java**
-* 📱 **Android Studio**
-* 🎨 **Bootstrap**
-* 🌍 **Networking Basics**
-* 🛡️ **Web Security Concepts**
+> "Hackers find vulnerabilities.  
+> Cyber Security Engineers eliminate them."
 
 ---
 
-## 🌱 Currently Leveling Up
+# 🛡️ Cyber Security Focus
 
-* 🔐 **Cyber Security Fundamentals**
-* 🕵️ **Ethical Hacking**
-* 🚨 **OWASP Top 10**
-* 🌐 **Network Security**
-* 🐧 **Linux**
-* 🎯 **Penetration Testing**
-
----
-
-## 🎯 Mission
-
-To become a **Cyber Security Engineer / Ethical Hacker** focused on protecting systems, applications, and sensitive data from evolving cyber threats.
+🔐 Web Security  
+🕵️ Ethical Hacking  
+🚨 OWASP Top 10  
+🌐 Network Security  
+🐧 Linux  
+🎯 Penetration Testing  
+🔍 Vulnerability Assessment  
 
 ---
 
-## ⚡ Developer Mindset
+# ⚔️ Tech Arsenal
 
-> *"Code it. Break it. Secure it. Scale it."*
+## 💻 Programming Languages
 
-✨ I am deeply passionate about building **secure digital solutions** that solve real-world problems while defending against cyber attacks.
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhav-kadam-0097852a8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@prabhavkadam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PrabhavKadam) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prabhav Kadam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhavkadam07@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pkadam1052007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pkadam1052007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadam1052007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pkadam1052007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pkadam1052007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pkadam1052007&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Web Development
 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-<!--
-**pkadam1052007/pkadam1052007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🗄️ Database
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+## 🧰 Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+
+---
+
+# 🚀 Featured Project
+
+# 💼 WorkLink
+
+🔥 Worker Hiring Platform  
+🔐 Secure Authentication  
+📧 Email Verification  
+👨‍🔧 Worker Profiles  
+🛡️ Admin Dashboard  
+📊 Analytics Panel  
+
+Tech Stack:
+
+ASP.NET Core MVC  
+SQL Server  
+Bootstrap  
+Identity Authentication  
+Security Implementation  
+
+---
+
+# ⚡ Cyber Security Roadmap
+
+✔ Networking Basics  
+✔ Web Development  
+🔄 Cyber Security Fundamentals  
+🔄 Ethical Hacking  
+🔄 Penetration Testing  
+🔄 Linux Security  
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pkadam1052007&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pkadam1052007&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadam1052007&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=pkadam1052007&theme=radical&no-frame=true)
+
+---
+
+# 🧠 Hacker Terminal
+
+```bash
+root@prabhav:~# whoami
+Cyber Security Engineer (Future)
+
+root@prabhav:~# skills
+ASP.NET
+Cyber Security
+Ethical Hacking
+Secure Coding
+
+root@prabhav:~# mission
+Secure The Digital World
+```
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prabhav-kadam-0097852a8)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/@PrabhavKadam)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:prabhavkadam07@gmail.com)
+
+---
+
+# 🔥 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=pkadam1052007&theme=tokyo-night)
+
+---
+
+# ✨ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=pkadam1052007&icon=5&color=12)
+
+---
+
+# ⚡ Final Message
+
+```bash
+> Security is not optional
+> Security is mandatory
+> Stay Secure 🔐
+```
+
+---
+
+# 🛡️ Cyber Security Motto
+
+> "Code it. Break it. Secure it. Scale it."
